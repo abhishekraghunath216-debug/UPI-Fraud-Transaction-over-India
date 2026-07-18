@@ -4,9 +4,15 @@
 This Power BI project analyze digital payment fraud cases by identifying fraud trend, affected payment method, victim demographics, Financial losses and geographical distribution.
 
 ## Dashboard Preview
-![Dashboard Intro](Int%20ro.png)
-![Dashboard Page1](Pag%20e1.png)
-![Dashboard Page2](Pag%20e2.png)
+
+### Dashboard Overview
+![Dashboard Overview](Intro.png)
+
+### Dashboard Page 1
+![Dashboard Page 1](Page1.png)
+
+### Dashboard Page 2
+![Dashboard Page 2](Page2.png)
 
 ## Dashboard Pages
 
