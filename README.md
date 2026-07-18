@@ -5,8 +5,8 @@ This Power BI project analyze digital payment fraud cases by identifying fraud t
 
 ## Dashboard Preview
 ![Dashboard Overview](Int%20ro.png)
-![Dashboard page1](pag%20e1.png)
-![Dashboard page2](pag%20e2.png)
+![Dashboard page1](Pag%20e1.png)
+![Dashboard page2](Pag%20e2.png)
 
 ## Dashboard Pages
 
